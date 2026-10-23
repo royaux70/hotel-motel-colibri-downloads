@@ -2,6 +2,22 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "website-a508947235e0eef95f6d76dbff283128cd33fd07-update",
+      "date": "2026-10-23",
+      "area": "website",
+      "title": "Website updated",
+      "notes": [
+        "The latest improvements and fixes are now available."
+      ],
+      "link": {
+        "href": "/",
+        "label": "Visit the website"
+      },
+      "sourceRevision": "a508947235e0eef95f6d76dbff283128cd33fd07",
+      "publishedAt": "2026-10-23T17:04:01.729Z",
+      "runId": 39991710731
+    },
+    {
       "id": "website-d58414683e88fdec5efe0b517608d7e11a2563b4-agent-reports",
       "date": "2026-10-23",
       "area": "website",
