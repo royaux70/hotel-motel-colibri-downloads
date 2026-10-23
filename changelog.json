@@ -2,6 +2,22 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "website-00fadccc5f82a2cf52e2b65f0c9da8e931ab3d14-direct-client-downloads",
+      "date": "2026-10-23",
+      "area": "website",
+      "title": "Download HMC Uploader directly",
+      "notes": [
+        "Get the Windows, Mac Apple Silicon or Mac Intel installer directly from Downloads, without opening a GitHub release page."
+      ],
+      "link": {
+        "href": "/downloads#hmc-uploader",
+        "label": "Download HMC Uploader"
+      },
+      "sourceRevision": "00fadccc5f82a2cf52e2b65f0c9da8e931ab3d14",
+      "publishedAt": "2026-10-23T17:29:26.288Z",
+      "runId": 39995242145
+    },
+    {
       "id": "website-a508947235e0eef95f6d76dbff283128cd33fd07-update",
       "date": "2026-10-23",
       "area": "website",
