@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "entries": [
+    {
+      "id": "website-d58414683e88fdec5efe0b517608d7e11a2563b4-agent-reports",
+      "date": "2026-10-23",
+      "area": "website",
+      "title": "Guild reports, on the website",
+      "notes": [
+        "Read Forever Digest, Night Watch and API Watch reports in a member-only archive, with direct links from Discord."
+      ],
+      "link": {
+        "href": "/reports",
+        "label": "Read the reports"
+      },
+      "sourceRevision": "d58414683e88fdec5efe0b517608d7e11a2563b4",
+      "publishedAt": "2026-10-23T17:01:11.730Z",
+      "runId": 39991242601
+    },
+    {
+      "id": "website-d58414683e88fdec5efe0b517608d7e11a2563b4-automatic-changelog",
+      "date": "2026-10-23",
+      "area": "website",
+      "title": "Updates, all in one place",
+      "notes": [
+        "The changelog now adds website, HMC Uploader and addon updates automatically after they are delivered."
+      ],
+      "link": {
+        "href": "/changelog",
+        "label": "See all updates"
+      },
+      "sourceRevision": "d58414683e88fdec5efe0b517608d7e11a2563b4",
+      "publishedAt": "2026-10-23T17:01:11.730Z",
+      "runId": 39991242601
+    },
+    {
+      "id": "dungeon-raid-loot",
+      "date": "2026-10-23",
+      "area": "website",
+      "title": "Dungeon & raid loot",
+      "notes": [
+        "Browse boss loot with item icons, stat previews and boss portraits, straight from the Atlas."
+      ],
+      "link": {
+        "href": "/dungeons",
+        "label": "Explore dungeon loot"
+      }
+    },
+    {
+      "id": "atlas-launch-polish",
+      "date": "2026-10-22",
+      "area": "website",
+      "title": "A richer Atlas, a clearer launch plan",
+      "notes": [
+        "Explore Azeroth in 2D or 3D, with dungeon entrances, transport routes and flight connections.",
+        "Launch plans now show race, specialization and role icons. Spacing and mobile layouts are easier to read across the site."
+      ],
+      "link": {
+        "href": "/map",
+        "label": "Open the Atlas"
+      }
+    },
+    {
+      "id": "shared-positions",
+      "date": "2026-10-22",
+      "area": "addon",
+      "title": "Your place in Azeroth",
+      "notes": [
+        "Character positions are shared with signed-in guild members on the 2D and 3D Atlas.",
+        "The /hmc window now brings together weekly boards, crafters and member sheets, including quests you share with guildmates."
+      ],
+      "version": "0.3.68",
+      "link": {
+        "href": "/downloads",
+        "label": "Get the addon"
+      },
+      "sourceRevision": "a93891c83847042631c5e27e3777bd0e62ebb7f3"
+    },
+    {
+      "id": "uploader-guild-data",
+      "date": "2026-10-22",
+      "area": "client",
+      "title": "More connected, in and out of game",
+      "notes": [
+        "HMC Uploader brings the website's guild data into WoW and uploads character portraits taken with /hmc portrait.",
+        "Missing upload keys now show a clearer message to help you connect your account."
+      ],
+      "version": "0.3.68",
+      "link": {
+        "href": "https://github.com/royaux70/hotel-motel-colibri-downloads/releases/tag/uploader-v0.3.68",
+        "label": "Release notes"
+      },
+      "sourceRevision": "a93891c83847042631c5e27e3777bd0e62ebb7f3"
+    },
+    {
+      "id": "launch-plans",
+      "date": "2026-10-21",
+      "area": "website",
+      "title": "Get ready for launch",
+      "notes": [
+        "Plan your character for Forever: choose a race, class, specializations and professions, and see what the guild is bringing."
+      ],
+      "link": {
+        "href": "/launch",
+        "label": "See launch plans"
+      }
+    }
+  ]
+}
