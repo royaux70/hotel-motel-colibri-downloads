@@ -2,6 +2,22 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "website-be01c20eedc826851432436ec4e155bafa87f86b-update",
+      "date": "2026-10-27",
+      "area": "website",
+      "title": "Website updated",
+      "notes": [
+        "The latest improvements and fixes are now available."
+      ],
+      "link": {
+        "href": "/",
+        "label": "Visit the website"
+      },
+      "sourceRevision": "be01c20eedc826851432436ec4e155bafa87f86b",
+      "publishedAt": "2026-10-27T19:24:03.323Z",
+      "runId": 40561122984
+    },
+    {
       "id": "website-78e7000d06fb3bab9b982b4adbcebff0a328bb74-update",
       "date": "2026-10-23",
       "area": "website",
