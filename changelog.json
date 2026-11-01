@@ -2,6 +2,40 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "addon-0-3-86-update",
+      "date": "2026-11-01",
+      "area": "addon",
+      "title": "Addon updated",
+      "notes": [
+        "The latest improvements and fixes are now available."
+      ],
+      "version": "0.3.86",
+      "link": {
+        "href": "https://github.com/royaux70/hotel-motel-colibri-downloads/releases/tag/uploader-v0.3.86",
+        "label": "Release notes"
+      },
+      "sourceRevision": "e113c52ae9524483f3eab44f24871f0ee8b91995",
+      "publishedAt": "2026-11-01T23:21:09Z",
+      "runId": 41360902164
+    },
+    {
+      "id": "client-0-3-86-update",
+      "date": "2026-11-01",
+      "area": "client",
+      "title": "HMC Uploader updated",
+      "notes": [
+        "The latest improvements and fixes are now available."
+      ],
+      "version": "0.3.86",
+      "link": {
+        "href": "https://github.com/royaux70/hotel-motel-colibri-downloads/releases/tag/uploader-v0.3.86",
+        "label": "Release notes"
+      },
+      "sourceRevision": "e113c52ae9524483f3eab44f24871f0ee8b91995",
+      "publishedAt": "2026-11-01T23:21:09Z",
+      "runId": 41360902164
+    },
+    {
       "id": "website-e113c52ae9524483f3eab44f24871f0ee8b91995-update",
       "date": "2026-10-28",
       "area": "website",
