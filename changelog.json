@@ -2,6 +2,22 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "website-85828ad695cc3326a36fa3bc2b85e76496c7f4fa-update",
+      "date": "2026-11-02",
+      "area": "website",
+      "title": "Website updated",
+      "notes": [
+        "The latest improvements and fixes are now available."
+      ],
+      "link": {
+        "href": "/",
+        "label": "Visit the website"
+      },
+      "sourceRevision": "85828ad695cc3326a36fa3bc2b85e76496c7f4fa",
+      "publishedAt": "2026-11-02T23:55:48.784Z",
+      "runId": 41548839052
+    },
+    {
       "id": "addon-0-3-90-players-tab",
       "date": "2026-11-02",
       "area": "addon",
