@@ -2,6 +2,22 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "website-2ef17d2e0a2a5d0417ed8c4a611629dc583d5908-update",
+      "date": "2026-11-02",
+      "area": "website",
+      "title": "Website updated",
+      "notes": [
+        "The latest improvements and fixes are now available."
+      ],
+      "link": {
+        "href": "/",
+        "label": "Visit the website"
+      },
+      "sourceRevision": "2ef17d2e0a2a5d0417ed8c4a611629dc583d5908",
+      "publishedAt": "2026-11-02T19:47:44.062Z",
+      "runId": 41512770711
+    },
+    {
       "id": "website-8d5c994e9caeb9dbc10d11f2a588b353f2520071-profile-recipes",
       "date": "2026-11-02",
       "area": "website",
