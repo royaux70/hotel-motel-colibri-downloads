@@ -2,6 +2,77 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "addon-0-3-90-players-tab",
+      "date": "2026-11-02",
+      "area": "addon",
+      "title": "Find guildmates on your quests",
+      "notes": [
+        "The new Players tab in /hmc lists the guildmates who share your quests or are in your zone, online first, and groups the guild's dungeon quests by dungeon.",
+        "Quest logs are shared live between guildmates who run the addon, and a member's sheet has Whisper and Invite buttons."
+      ],
+      "version": "0.3.90",
+      "link": {
+        "href": "https://github.com/royaux70/hotel-motel-colibri-downloads/releases/tag/uploader-v0.3.90",
+        "label": "Release notes"
+      },
+      "sourceRevision": "2ef17d2e0a2a5d0417ed8c4a611629dc583d5908",
+      "publishedAt": "2026-11-02T19:52:54Z",
+      "runId": 41513409596
+    },
+    {
+      "id": "addon-0-3-90-questing-alerts",
+      "date": "2026-11-02",
+      "area": "addon",
+      "title": "Know who is on the same quest",
+      "notes": [
+        "A chat line when you meet a guildmate who shares your quests (/hmc alerts on or off).",
+        "Quest tooltips list the guildmates on that quest and who is ready to turn it in."
+      ],
+      "version": "0.3.90",
+      "link": {
+        "href": "https://github.com/royaux70/hotel-motel-colibri-downloads/releases/tag/uploader-v0.3.90",
+        "label": "Release notes"
+      },
+      "sourceRevision": "2ef17d2e0a2a5d0417ed8c4a611629dc583d5908",
+      "publishedAt": "2026-11-02T19:52:54Z",
+      "runId": 41513409596
+    },
+    {
+      "id": "addon-0-3-90-recipe-tooltips",
+      "date": "2026-11-02",
+      "area": "addon",
+      "title": "See who knows a recipe",
+      "notes": [
+        "Your recipes are saved automatically when you open your profession window.",
+        "Recipe, pattern and plans tooltips show which guildmates know it and who could learn it, and /hmc lists each crafter's recipes."
+      ],
+      "version": "0.3.90",
+      "link": {
+        "href": "https://github.com/royaux70/hotel-motel-colibri-downloads/releases/tag/uploader-v0.3.90",
+        "label": "Release notes"
+      },
+      "sourceRevision": "2ef17d2e0a2a5d0417ed8c4a611629dc583d5908",
+      "publishedAt": "2026-11-02T19:52:54Z",
+      "runId": 41513409596
+    },
+    {
+      "id": "addon-0-3-90-world-map-guildmates",
+      "date": "2026-11-02",
+      "area": "addon",
+      "title": "Guildmates on the world map",
+      "notes": [
+        "Online guildmates show as dots in their class colors on the world map, and members seen in the last 48 hours show dimmer. Hover for the quests you share; click for their sheet."
+      ],
+      "version": "0.3.90",
+      "link": {
+        "href": "https://github.com/royaux70/hotel-motel-colibri-downloads/releases/tag/uploader-v0.3.90",
+        "label": "Release notes"
+      },
+      "sourceRevision": "2ef17d2e0a2a5d0417ed8c4a611629dc583d5908",
+      "publishedAt": "2026-11-02T19:52:54Z",
+      "runId": 41513409596
+    },
+    {
       "id": "website-2ef17d2e0a2a5d0417ed8c4a611629dc583d5908-update",
       "date": "2026-11-02",
       "area": "website",
