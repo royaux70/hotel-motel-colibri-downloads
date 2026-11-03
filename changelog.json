@@ -2,6 +2,41 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "addon-0-3-95-update",
+      "date": "2026-11-02",
+      "area": "addon",
+      "title": "Addon updated",
+      "notes": [
+        "The latest improvements and fixes are now available."
+      ],
+      "version": "0.3.95",
+      "link": {
+        "href": "https://github.com/royaux70/hotel-motel-colibri-downloads/releases/tag/uploader-v0.3.95",
+        "label": "Release notes"
+      },
+      "sourceRevision": "dd4465cc8acd58af59bcf70c6581600481f004c0",
+      "publishedAt": "2026-11-03T02:25:30Z",
+      "runId": 41565126679
+    },
+    {
+      "id": "client-0-3-95-uploader-connect-client",
+      "date": "2026-11-02",
+      "area": "client",
+      "title": "Connect HMC Uploader with one click",
+      "notes": [
+        "Choose Connect with Discord in HMC Uploader and authorize in your browser: no key to create, copy or paste.",
+        "HMC Uploader stays connected while you're in the guild's Discord server, with no sign-in every 30 days."
+      ],
+      "version": "0.3.95",
+      "link": {
+        "href": "/downloads",
+        "label": "Get HMC Uploader"
+      },
+      "sourceRevision": "dd4465cc8acd58af59bcf70c6581600481f004c0",
+      "publishedAt": "2026-11-03T02:25:30Z",
+      "runId": 41565126679
+    },
+    {
       "id": "website-dd4465cc8acd58af59bcf70c6581600481f004c0-uploader-connect-website",
       "date": "2026-11-02",
       "area": "website",
