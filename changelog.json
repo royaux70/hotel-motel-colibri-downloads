@@ -2,6 +2,22 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "website-dd4465cc8acd58af59bcf70c6581600481f004c0-uploader-connect-website",
+      "date": "2026-11-02",
+      "area": "website",
+      "title": "Your connected computers",
+      "notes": [
+        "Your account page lists the computers where HMC Uploader is connected, and you can disconnect any of them."
+      ],
+      "link": {
+        "href": "/account",
+        "label": "Open your account"
+      },
+      "sourceRevision": "dd4465cc8acd58af59bcf70c6581600481f004c0",
+      "publishedAt": "2026-11-03T01:26:03.538Z",
+      "runId": 41559493058
+    },
+    {
       "id": "website-85828ad695cc3326a36fa3bc2b85e76496c7f4fa-update",
       "date": "2026-11-02",
       "area": "website",
