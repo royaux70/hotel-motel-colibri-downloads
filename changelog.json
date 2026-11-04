@@ -2,6 +2,22 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "website-d36a7f66789c8e04c25876f1c0a5112d9d6c6596-race-launch-hour",
+      "date": "2026-11-04",
+      "area": "website",
+      "title": "The race to 60 starts at launch",
+      "notes": [
+        "The race board counts from the WoW: Forever launch, November 4 at 6:00 PM Eastern, and the upload page shows the live game folder."
+      ],
+      "link": {
+        "href": "/race",
+        "label": "See the race"
+      },
+      "sourceRevision": "d36a7f66789c8e04c25876f1c0a5112d9d6c6596",
+      "publishedAt": "2026-11-04T15:15:50.775Z",
+      "runId": 41855403113
+    },
+    {
       "id": "website-9fdce3f8d4b668dc7785700645135d449db95392-update",
       "date": "2026-11-02",
       "area": "website",
