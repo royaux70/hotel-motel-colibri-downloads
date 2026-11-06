@@ -2,6 +2,23 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "website-89b05d2b0adb486a5671a4ddbb21962e298964d7-gank-counter-website",
+      "date": "2026-11-06",
+      "area": "website",
+      "title": "The guild's gank counter",
+      "notes": [
+        "A new Gank counter page counts how often each member was killed by enemy players, this week and since the start, lists the latest ganks and names the enemies who killed the guild most.",
+        "The same page ranks members by honorable kills, this week and all time."
+      ],
+      "link": {
+        "href": "/ganks",
+        "label": "See the gank counter"
+      },
+      "sourceRevision": "89b05d2b0adb486a5671a4ddbb21962e298964d7",
+      "publishedAt": "2026-11-06T19:59:01.222Z",
+      "runId": 42284045743
+    },
+    {
       "id": "website-80d118d4bedf25860e0192486bec395e7999f409-update",
       "date": "2026-11-06",
       "area": "website",
