@@ -2,6 +2,22 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "website-8370af805f4afbbef56587b1a76922380bc7dce2-update",
+      "date": "2026-11-06",
+      "area": "website",
+      "title": "Website updated",
+      "notes": [
+        "The latest improvements and fixes are now available."
+      ],
+      "link": {
+        "href": "/",
+        "label": "Visit the website"
+      },
+      "sourceRevision": "8370af805f4afbbef56587b1a76922380bc7dce2",
+      "publishedAt": "2026-11-06T16:35:48.232Z",
+      "runId": 42253548092
+    },
+    {
       "id": "website-d36a7f66789c8e04c25876f1c0a5112d9d6c6596-race-launch-hour",
       "date": "2026-11-04",
       "area": "website",
