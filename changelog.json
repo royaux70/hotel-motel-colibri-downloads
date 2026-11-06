@@ -2,6 +2,23 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "website-6210d4d63542b6612d334863b857dfaf26468dd0-live-data-website",
+      "date": "2026-11-06",
+      "area": "website",
+      "title": "Levels, quests and who is online, updated while members play",
+      "notes": [
+        "The website now shows members' progress about every 10 minutes while they play with HMC Uploader, not only after a /reload or a logout.",
+        "On our PvP realm, the zone where someone is playing shows an hour later; signed-in members still see exact positions on the map right away."
+      ],
+      "link": {
+        "href": "/",
+        "label": "Visit the website"
+      },
+      "sourceRevision": "6210d4d63542b6612d334863b857dfaf26468dd0",
+      "publishedAt": "2026-11-06T21:10:36.042Z",
+      "runId": 42294160774
+    },
+    {
       "id": "addon-0-3-104-gank-counter-addon",
       "date": "2026-11-06",
       "area": "addon",
