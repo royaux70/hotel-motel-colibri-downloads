@@ -2,6 +2,42 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "addon-0-3-104-gank-counter-addon",
+      "date": "2026-11-06",
+      "area": "addon",
+      "title": "A gank counter",
+      "notes": [
+        "Each time you are killed by an enemy player in the open world, the addon records who did it, their level, race and class, and where it happened. Battlegrounds and arenas don't count.",
+        "Online guildmates get a chat line naming the killer and the zone. /hmc ganks shows your count; /hmc ganks off silences the chat lines.",
+        "The addon also reads your character's honorable kills, so the website can rank the guild's PvP kills."
+      ],
+      "version": "0.3.104",
+      "link": {
+        "href": "https://github.com/royaux70/hotel-motel-colibri-downloads/releases/tag/uploader-v0.3.104",
+        "label": "Release notes"
+      },
+      "sourceRevision": "89b05d2b0adb486a5671a4ddbb21962e298964d7",
+      "publishedAt": "2026-11-06T20:09:13Z",
+      "runId": 42284278114
+    },
+    {
+      "id": "client-0-3-104-update",
+      "date": "2026-11-06",
+      "area": "client",
+      "title": "HMC Uploader updated",
+      "notes": [
+        "The latest improvements and fixes are now available."
+      ],
+      "version": "0.3.104",
+      "link": {
+        "href": "https://github.com/royaux70/hotel-motel-colibri-downloads/releases/tag/uploader-v0.3.104",
+        "label": "Release notes"
+      },
+      "sourceRevision": "89b05d2b0adb486a5671a4ddbb21962e298964d7",
+      "publishedAt": "2026-11-06T20:09:13Z",
+      "runId": 42284278114
+    },
+    {
       "id": "website-89b05d2b0adb486a5671a4ddbb21962e298964d7-gank-counter-website",
       "date": "2026-11-06",
       "area": "website",
