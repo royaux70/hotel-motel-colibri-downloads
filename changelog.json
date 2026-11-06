@@ -2,6 +2,42 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "addon-0-3-109-live-data-addon",
+      "date": "2026-11-06",
+      "area": "addon",
+      "title": "The website follows your game without a /reload",
+      "notes": [
+        "With HMC Uploader installed, the addon now shares your character, the guild roster and what you heard from guildmates about every 5 minutes while you play, through the game's own log file. No more /reload to update the website.",
+        "It never shares your money or your other characters, and stays off for a character outside the guild. Type /hmc live to see whether it is on; /hmc live off stops it."
+      ],
+      "version": "0.3.109",
+      "link": {
+        "href": "https://github.com/royaux70/hotel-motel-colibri-downloads/releases/tag/uploader-v0.3.109",
+        "label": "Release notes"
+      },
+      "sourceRevision": "8e458afb676f7e6b3c596a2ec179358aa1e406b3",
+      "publishedAt": "2026-11-06T23:38:54Z",
+      "runId": 42312201395
+    },
+    {
+      "id": "client-0-3-109-live-data-client",
+      "date": "2026-11-06",
+      "area": "client",
+      "title": "HMC Uploader sends your progress while you play",
+      "notes": [
+        "HMC Uploader now reads what the addon writes into the game's log file and sends it to the website about every 10 minutes, without waiting for a /reload or a logout.",
+        "The guild data in the game also refreshes while you play, and right away when you start the game."
+      ],
+      "version": "0.3.109",
+      "link": {
+        "href": "https://github.com/royaux70/hotel-motel-colibri-downloads/releases/tag/uploader-v0.3.109",
+        "label": "Release notes"
+      },
+      "sourceRevision": "8e458afb676f7e6b3c596a2ec179358aa1e406b3",
+      "publishedAt": "2026-11-06T23:38:54Z",
+      "runId": 42312201395
+    },
+    {
       "id": "website-8e458afb676f7e6b3c596a2ec179358aa1e406b3-update",
       "date": "2026-11-06",
       "area": "website",
