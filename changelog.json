@@ -2,6 +2,23 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "website-09d3af821a100b219f15cf3e43993f63632df08a-play-journal-website",
+      "date": "2026-11-06",
+      "area": "website",
+      "title": "Play sessions on every character's progress page",
+      "notes": [
+        "Signed-in guild members now see each character's play sessions on their progress page.",
+        "Each player's journal has its own room, so a busy player no longer pushes out anyone else's."
+      ],
+      "link": {
+        "href": "/",
+        "label": "Visit the website"
+      },
+      "sourceRevision": "09d3af821a100b219f15cf3e43993f63632df08a",
+      "publishedAt": "2026-11-07T02:27:02.196Z",
+      "runId": 42329123637
+    },
+    {
       "id": "addon-0-3-111-update",
       "date": "2026-11-06",
       "area": "addon",
