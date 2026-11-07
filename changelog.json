@@ -2,6 +2,23 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "addon-0-3-120-logout-money-xp",
+      "date": "2026-11-07",
+      "area": "addon",
+      "title": "Logging out keeps your gold and XP",
+      "notes": [
+        "The game can answer 0 gold, an old level and 0 XP at the moment you log out. The addon no longer saves that answer: it keeps the readings it took while you played, and the website's session report no longer shows all your gold as spent (the report also ignores that 0 in sessions already saved)."
+      ],
+      "version": "0.3.120",
+      "link": {
+        "href": "https://github.com/royaux70/hotel-motel-colibri-downloads/releases/tag/uploader-v0.3.120",
+        "label": "Release notes"
+      },
+      "sourceRevision": "eacadfe3ca6e0bff75e30026c55455a1fa0bc442",
+      "publishedAt": "2026-11-07T20:00:45Z",
+      "runId": 42408629899
+    },
+    {
       "id": "website-eacadfe3ca6e0bff75e30026c55455a1fa0bc442-update",
       "date": "2026-11-07",
       "area": "website",
