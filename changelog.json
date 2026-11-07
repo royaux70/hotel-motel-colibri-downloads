@@ -2,6 +2,22 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "website-9d6a68ef92402f2da3b27b5f32e038036125ee75-update",
+      "date": "2026-11-06",
+      "area": "website",
+      "title": "Website updated",
+      "notes": [
+        "The latest improvements and fixes are now available."
+      ],
+      "link": {
+        "href": "/",
+        "label": "Visit the website"
+      },
+      "sourceRevision": "9d6a68ef92402f2da3b27b5f32e038036125ee75",
+      "publishedAt": "2026-11-07T01:44:15.494Z",
+      "runId": 42325384699
+    },
+    {
       "id": "addon-0-3-109-live-data-addon",
       "date": "2026-11-06",
       "area": "addon",
