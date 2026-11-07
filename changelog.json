@@ -2,6 +2,22 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "website-baa5fdfb6d0aeaeb743050dc2ad204932d8915f2-update",
+      "date": "2026-11-07",
+      "area": "website",
+      "title": "Website updated",
+      "notes": [
+        "The latest improvements and fixes are now available."
+      ],
+      "link": {
+        "href": "/",
+        "label": "Visit the website"
+      },
+      "sourceRevision": "baa5fdfb6d0aeaeb743050dc2ad204932d8915f2",
+      "publishedAt": "2026-11-07T18:38:09.812Z",
+      "runId": 42393634131
+    },
+    {
       "id": "website-09d3af821a100b219f15cf3e43993f63632df08a-play-journal-website",
       "date": "2026-11-06",
       "area": "website",
