@@ -2,6 +2,22 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "website-f9b0b1828371224da8c2898ec650f7f49c4028ee-discord-live-levels",
+      "date": "2026-11-07",
+      "area": "website",
+      "title": "Level-ups on Discord while you play",
+      "notes": [
+        "With HMC Uploader running, the Discord post for every 10 levels now goes out within about 10 minutes of the level-up, instead of when you log out."
+      ],
+      "link": {
+        "href": "/",
+        "label": "Visit the website"
+      },
+      "sourceRevision": "f9b0b1828371224da8c2898ec650f7f49c4028ee",
+      "publishedAt": "2026-11-07T18:48:03.357Z",
+      "runId": 42402904326
+    },
+    {
       "id": "website-baa5fdfb6d0aeaeb743050dc2ad204932d8915f2-update",
       "date": "2026-11-07",
       "area": "website",
