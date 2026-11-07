@@ -2,6 +2,23 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "addon-0-3-123-update",
+      "date": "2026-11-07",
+      "area": "addon",
+      "title": "Addon updated",
+      "notes": [
+        "The latest improvements and fixes are now available."
+      ],
+      "version": "0.3.123",
+      "link": {
+        "href": "https://github.com/royaux70/hotel-motel-colibri-downloads/releases/tag/uploader-v0.3.123",
+        "label": "Release notes"
+      },
+      "sourceRevision": "66a208f85c25a62edb7c89dab0c09a9aa2909e4a",
+      "publishedAt": "2026-11-07T20:32:42Z",
+      "runId": 42411210995
+    },
+    {
       "id": "addon-0-3-120-logout-money-xp",
       "date": "2026-11-07",
       "area": "addon",
