@@ -2,6 +2,24 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "addon-0-3-117-play-journal-addon",
+      "date": "2026-11-07",
+      "area": "addon",
+      "title": "Your play journal is on for everyone",
+      "notes": [
+        "The addon now keeps a journal of your play sessions by default and shares it with the guild's signed-in members on the website.",
+        "It takes far less room: about eight hours of play fit where under one did. Type /hmc assistance off to stop it, or /hmc assistance private to keep it to yourself."
+      ],
+      "version": "0.3.117",
+      "link": {
+        "href": "https://github.com/royaux70/hotel-motel-colibri-downloads/releases/tag/uploader-v0.3.117",
+        "label": "Release notes"
+      },
+      "sourceRevision": "f9b0b1828371224da8c2898ec650f7f49c4028ee",
+      "publishedAt": "2026-11-07T18:59:15Z",
+      "runId": 42403659095
+    },
+    {
       "id": "website-f9b0b1828371224da8c2898ec650f7f49c4028ee-discord-live-levels",
       "date": "2026-11-07",
       "area": "website",
