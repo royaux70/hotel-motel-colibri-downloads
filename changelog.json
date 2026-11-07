@@ -2,6 +2,23 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "addon-0-3-125-update",
+      "date": "2026-11-07",
+      "area": "addon",
+      "title": "Addon updated",
+      "notes": [
+        "The latest improvements and fixes are now available."
+      ],
+      "version": "0.3.125",
+      "link": {
+        "href": "https://github.com/royaux70/hotel-motel-colibri-downloads/releases/tag/uploader-v0.3.125",
+        "label": "Release notes"
+      },
+      "sourceRevision": "0cdb820b9ce83e65f3df56a91480604a20fd08e4",
+      "publishedAt": "2026-11-07T21:09:27Z",
+      "runId": 42414177786
+    },
+    {
       "id": "addon-0-3-123-update",
       "date": "2026-11-07",
       "area": "addon",
