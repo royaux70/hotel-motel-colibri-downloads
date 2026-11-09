@@ -2,6 +2,23 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "website-e8d7c31cf3c2370894356ec3d913c3c9faf000b6-economy-prices-website",
+      "date": "2026-11-09",
+      "area": "website",
+      "title": "Auction house prices on the Economy page",
+      "notes": [
+        "The new Economy page charts the auction house price of every profession resource, day by day, from guild members who use Auctionator.",
+        "See the week's biggest rises and falls, and filter by resource type, by profession or by what the guild's recipes use."
+      ],
+      "link": {
+        "href": "/economy",
+        "label": "See the prices"
+      },
+      "sourceRevision": "e8d7c31cf3c2370894356ec3d913c3c9faf000b6",
+      "publishedAt": "2026-11-09T06:08:16.795Z",
+      "runId": 42570308511
+    },
+    {
       "id": "addon-0-3-125-update",
       "date": "2026-11-07",
       "area": "addon",
