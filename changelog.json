@@ -2,6 +2,24 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "addon-0-3-127-economy-prices-addon",
+      "date": "2026-11-09",
+      "area": "addon",
+      "title": "Auction prices and an Economy tab",
+      "notes": [
+        "If you use Auctionator, the addon now saves its prices of profession resources so HMC Uploader can bring them to the website's Economy page.",
+        "A new Economy tab in /hmc lists the week's biggest price rises and falls at the guild's auction house."
+      ],
+      "version": "0.3.127",
+      "link": {
+        "href": "/economy",
+        "label": "See the prices"
+      },
+      "sourceRevision": "e8d7c31cf3c2370894356ec3d913c3c9faf000b6",
+      "publishedAt": "2026-11-09T06:12:52Z",
+      "runId": 42570327110
+    },
+    {
       "id": "website-e8d7c31cf3c2370894356ec3d913c3c9faf000b6-economy-prices-website",
       "date": "2026-11-09",
       "area": "website",
