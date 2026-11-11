@@ -2,6 +2,22 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "website-f94f7c80bc8bfbd298e1686e0e6b6e563676a23b-update",
+      "date": "2026-11-11",
+      "area": "website",
+      "title": "Website updated",
+      "notes": [
+        "The latest improvements and fixes are now available."
+      ],
+      "link": {
+        "href": "/",
+        "label": "Visit the website"
+      },
+      "sourceRevision": "f94f7c80bc8bfbd298e1686e0e6b6e563676a23b",
+      "publishedAt": "2026-11-11T18:21:32.296Z",
+      "runId": 43076632270
+    },
+    {
       "id": "addon-0-3-127-economy-prices-addon",
       "date": "2026-11-09",
       "area": "addon",
