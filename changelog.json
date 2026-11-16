@@ -2,6 +2,22 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "website-2dc88e5cf65555f11438ad5dd6b6d117d0ecc2f0-update",
+      "date": "2026-11-16",
+      "area": "website",
+      "title": "Website updated",
+      "notes": [
+        "The latest improvements and fixes are now available."
+      ],
+      "link": {
+        "href": "/",
+        "label": "Visit the website"
+      },
+      "sourceRevision": "2dc88e5cf65555f11438ad5dd6b6d117d0ecc2f0",
+      "publishedAt": "2026-11-16T20:38:51.461Z",
+      "runId": 43951221190
+    },
+    {
       "id": "addon-0-3-133-kill-lines-addon",
       "date": "2026-11-16",
       "area": "addon",
