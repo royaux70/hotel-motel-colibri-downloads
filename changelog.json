@@ -2,6 +2,24 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "addon-0-3-133-kill-lines-addon",
+      "date": "2026-11-16",
+      "area": "addon",
+      "title": "A chat line for every enemy player the guild kills",
+      "notes": [
+        "When you or an online guildmate kills an enemy player in the open world, every guildmate with the addon reads who killed whom, the enemy's level, race and class, and where.",
+        "Guildmates who kill the same enemy together share one line. Battlegrounds and arenas aren't told. /hmc kills off silences the lines."
+      ],
+      "version": "0.3.133",
+      "link": {
+        "href": "https://github.com/royaux70/hotel-motel-colibri-downloads/releases/tag/uploader-v0.3.133",
+        "label": "Release notes"
+      },
+      "sourceRevision": "5a37c55e9014961feb0cd1920e35c2f9d29e7e5a",
+      "publishedAt": "2026-11-16T18:06:11Z",
+      "runId": 43924530569
+    },
+    {
       "id": "website-af269b60811d518afa70a0a341faf2dbc78d0bc5-update",
       "date": "2026-11-16",
       "area": "website",
